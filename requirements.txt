@@ -1,0 +1,9 @@
+mss
+opencv-python
+numpy
+pyautogui
+pydirectinput
+pynput
+PySide6
+soundcard
+pyinstaller
