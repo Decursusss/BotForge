@@ -1,4 +1,4 @@
-# BotForge V0.01
+# BotForge V0.01 (EN)
  
 **A visual automation builder for games and programs — without a single line of code.**
  
